@@ -20,3 +20,10 @@ Steam社区
 Github(更新)
 Vjudge
 ```
+
+1.0.3 版本新增加速:
+
+```
+Github加强版
+Vjudge(删除)
+```
