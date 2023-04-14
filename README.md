@@ -1,6 +1,6 @@
 # PhoenixAccelerator
 
-## 注意！压缩包需要更更改解压目标文件夹为 `PhoenixAccelerator`！
+## 注意！压缩包需要更改解压目标文件夹为 `PhoenixAccelerator` (建议下载安装包)！
 
 ### 公告栏
 
