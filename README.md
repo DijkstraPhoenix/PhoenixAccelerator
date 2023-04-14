@@ -1,5 +1,7 @@
 # PhoenixAccelerator
 
+## 注意！压缩包需要更更改解压目标文件夹为 `PhoenixAccelerator`！
+
 ### 公告栏
 
 ```
