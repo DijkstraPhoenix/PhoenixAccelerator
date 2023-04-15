@@ -1,6 +1,6 @@
 # PhoenixAccelerator
 
-## 注意！压缩包需要更改解压目标文件夹为 `PhoenixAccelerator` (建议下载安装包)！
+## 注意！1.0.7 版本以前的压缩包需要更改解压目标文件夹为 `PhoenixAccelerator` (建议下载安装包)！
 
 ### 公告栏
 
@@ -59,4 +59,14 @@ ChatGPT
 
 ```
 修复 ChatGPT 加速
+```
+
+1.0.7 版本新增:
+
+```
+steam (更新)
+使命召唤：战区2.0 (更新)
+绝地求生-亚服
+CSGO
+原神-亚服
 ```
